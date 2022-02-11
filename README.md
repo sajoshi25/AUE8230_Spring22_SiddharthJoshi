@@ -2,6 +2,6 @@
 
 Name: Siddharth A Joshi 
 
-Course: Autonomy: Sciece & Systems
+Course: Autonomy:Sciece & Systems
 
 All the scripts necessary to perform the tasks with turtlesim are added to this repository.
