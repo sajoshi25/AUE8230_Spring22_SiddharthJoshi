@@ -14,7 +14,8 @@ def turtle_square():
 	
 	vel.linear.x = 0.2
 	rate = rospy.Rate(1)
-	for i in range(3):
+	while not rospy.is_shutdown():
+	#for i in range(4):
 		vel.linear.x = 0.2
 		t0 = rospy.Time.now().to_sec()
 		current_dist = 0
