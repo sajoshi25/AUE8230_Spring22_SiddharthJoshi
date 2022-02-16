@@ -6,7 +6,7 @@
 
 - This repository focuses on the all programming assignments done in ROS with turtlesim, turtlebot, gazebo and rviz
 - All the scripts necessary to perform the tasks are added to this repository
-- In coming weeks the repositiry will be filled with more interesting stuff that can be acheived using ROS
+- In coming weeks the repository will be filled with more interesting stuff that can be acheived using ROS
 <br /> 
 <br /> 
 <p align="center">
